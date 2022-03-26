@@ -3,3 +3,6 @@
 <h1>BAKAi Project</h1>
 
 本組織倉庫僅供學習，交流之用。<br><br>
+
+\~本組織頭貼來源\~<br>
+[@MSCxar0293](https://github.com/MSCxar-0293)
